@@ -776,6 +776,12 @@ HK_SENSOR_TYPES = {
         None,
         "mdi:heating-coil",
     ],
+    "time_prg": [
+        "Heating Circuit{0} Time Program",
+        "time_prg",
+        None,
+        "mdi:numeric",
+    ],
 }
 
 HK_BINARY_SENSOR_TYPES = {
